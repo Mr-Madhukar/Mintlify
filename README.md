@@ -13,16 +13,6 @@ Original Website: https://www.mintlify.com/
 🔗 Live Preview:  
 https://mr-madhukar.github.io/Mintlify/
 
----
-
-## 📸 Screenshots
-
-### Homepage Preview
-
-![Website Preview](./assets/preview.png)
-
----
-
 ## 📋 Assignment Overview
 
 This project was created following the given assignment guidelines:
