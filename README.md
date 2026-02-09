@@ -11,7 +11,7 @@ Original Website: https://www.mintlify.com/
 ## 🌐 Live Demo
 
 🔗 Live Preview:  
-https://mr-madhukar.github.io/Mintlify/
+https://mintlifyc.netlify.app/
 
 ## 📋 Assignment Overview
 
